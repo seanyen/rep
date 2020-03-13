@@ -478,15 +478,20 @@ Most common open-source licenses are described on the
 
 Commonly used license strings:
 
- - Apache 2.0
- - BSD
- - Boost Software License
- - GPLv2
- - GPLv3
- - LGPLv2.1
- - LGPLv3
+ - Apache-2.0
+ - BSD-2-Clause
+ - BSD-3-Clause
+ - BSL-1.0
+ - GPL-2.0-or-later
+ - GPL-3.0-or-later
+ - LGPL-2.1-or-later
+ - LGPL-3.0-or-later
  - MIT
- - Mozilla Public License Version 1.1
+ - MPL-1.1
+
+SPDX short identifier is recommended to use as the license string.
+The full list is described on the
+`SDPX website <https://spdx.org/licenses/>`_.
 
 Attributes
 ''''''''''
